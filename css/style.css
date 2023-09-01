@@ -1,0 +1,33 @@
+.pro{
+    
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.pro1{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+.btn{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.btn button{
+    background-color: #1414e5e8;
+    border: 1px solid #1414e5e8;
+    border-radius: 5px;
+     padding: 5px;
+    width: 100px;
+    
+
+}
+img{
+    height: 200px;
+}
+
+
+
